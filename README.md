@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Fylo-Data-Storage-Component.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Fylo-Data-Storage-Component/)
 
 ## My process
 
